@@ -1,8 +1,8 @@
 # Tender Document Package Builder
 
-**Name:** YOUR NAME  
-**Registration Number:** YOUR REGISTRATION NUMBER  
-**Live HTTPS Link:** YOUR LIVE LINK
+**Name:** Ratul Hasan  
+**Registration Number:** NOT GIVEN 
+**Live HTTPS Link:** (https://ratulhasan02.github.io/tender-document-package-builder/)
 
 ## How to run
 ```bash
